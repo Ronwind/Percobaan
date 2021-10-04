@@ -23,9 +23,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://github.com/Ronwind/Percobaan/blob/main/nature-1024x682.jpeg);
+  background-image: url(https://github.com/Ronwind/Percobaan/blob/main/top.png);
   background-size: cover;
-  //*color: white; *//
+  color: white;
   text-align: center;
 }
 
